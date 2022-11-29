@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-brandColor-context/static/css/main.08e946b8.css",
+    "main.js": "/react-brandColor-context/static/js/main.1b8b602f.js",
+    "index.html": "/react-brandColor-context/index.html",
+    "main.08e946b8.css.map": "/react-brandColor-context/static/css/main.08e946b8.css.map",
+    "main.1b8b602f.js.map": "/react-brandColor-context/static/js/main.1b8b602f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e946b8.css",
+    "static/js/main.1b8b602f.js"
+  ]
+}
