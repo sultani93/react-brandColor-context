@@ -22,11 +22,11 @@ const Collection = () => {
   return (
     <main className='content'>
       <header className='header'>
-        <Link to='/' onClick={clearSelectedBrands}>
-          <a className='back-btn'>
+        <Link to='/react-brandColor-context/' onClick={clearSelectedBrands}>
+          <p className='back-btn'>
             <GrLinkPrevious />
             All brands
-          </a>
+          </p>
         </Link>
         {selectedBrands.length !== 0 && <Download />}
       </header>

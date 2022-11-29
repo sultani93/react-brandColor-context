@@ -55,8 +55,15 @@ function App() {
         <Sidebar />
         <Router>
           <Routes>
-            <Route path='/' exact element={<Content />} />
-            <Route path='/collection/:slugs' element={<Collection />} />
+            <Route
+              path='/react-brandColor-context'
+              exact
+              element={<Content />}
+            />
+            <Route
+              path='/react-brandColor-context/collection/:slugs'
+              element={<Collection />}
+            />
           </Routes>
         </Router>
       </MainContext.Provider>

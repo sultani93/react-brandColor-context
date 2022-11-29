@@ -62,7 +62,11 @@ const Download = () => {
         <a download={`brands.${cssMethod}`} href={downloadUrl}>
           <GrDownload />
         </a>
-        <Link to={`/collection/${selectedBrands.join(',')}`}>
+        <Link
+          to={`/react-brandColor-context/collection/${selectedBrands.join(
+            ','
+          )}`}
+        >
           <GrLink />
         </Link>
       </div>
