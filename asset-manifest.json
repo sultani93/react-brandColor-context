@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.08e946b8.css",
-    "main.js": "/static/js/main.1b8b602f.js",
-    "index.html": "/index.html",
-    "main.08e946b8.css.map": "/static/css/main.08e946b8.css.map",
-    "main.1b8b602f.js.map": "/static/js/main.1b8b602f.js.map"
+    "main.css": "/react-brandColor-context/static/css/main.08e946b8.css",
+    "main.js": "/react-brandColor-context/static/js/main.9741775b.js",
+    "index.html": "/react-brandColor-context/index.html",
+    "main.08e946b8.css.map": "/react-brandColor-context/static/css/main.08e946b8.css.map",
+    "main.9741775b.js.map": "/react-brandColor-context/static/js/main.9741775b.js.map"
   },
   "entrypoints": [
     "static/css/main.08e946b8.css",
-    "static/js/main.1b8b602f.js"
+    "static/js/main.9741775b.js"
   ]
 }
